@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Test_Logo.svg/150px-Test_Logo.svg.png
+" alt="Italian Trulli">
 ## Willkommen bei A3DP - Austrian-3D-Printer
 
 
