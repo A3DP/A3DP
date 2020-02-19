@@ -1,43 +1,8 @@
-<div class="container">
-    <div class="row">
-        <h2>
-            Cool Buttons With Labels</h2>
-        <div class="col-md-12">
-            <button type="button" class="btn btn-labeled btn-success">
-                <span class="btn-label"><i class="glyphicon glyphicon-ok"></i></span>Success</button>
-            <button type="button" class="btn btn-labeled btn-danger">
-                <span class="btn-label"><i class="glyphicon glyphicon-remove"></i></span>Cancel</button>
-            <br />
-            <button type="button" class="btn btn-labeled btn-warning">
-                <span class="btn-label"><i class="glyphicon glyphicon-bookmark"></i></span>Bookmark</button>
-            <button type="button" class="btn btn-labeled btn-primary">
-                <span class="btn-label"><i class="glyphicon glyphicon-camera"></i></span>Camera</button>
-            <br />
-            <button type="button" class="btn btn-labeled btn-default">
-                <span class="btn-label"><i class="glyphicon glyphicon-chevron-left"></i></span>Left</button>
-            <button type="button" class="btn btn-labeled btn-default">
-                <span class="btn-label"><i class="glyphicon glyphicon-chevron-right"></i></span>
-                Right</button>
-            <br />
-            <button type="button" class="btn btn-labeled btn-success">
-                <span class="btn-label"><i class="glyphicon glyphicon-thumbs-up"></i></span>Thumbs
-                Up</button>
-            <button type="button" class="btn btn-labeled btn-danger">
-                <span class="btn-label"><i class="glyphicon glyphicon-thumbs-down"></i></span>Thumbs
-                Down</button>
-            <br />
-            <button type="button" class="btn btn-labeled btn-info">
-                <span class="btn-label"><i class="glyphicon glyphicon-refresh"></i></span>Refresh</button>
-            <button type="button" class="btn btn-labeled btn-danger">
-                <span class="btn-label"><i class="glyphicon glyphicon-trash"></i></span>Trash</button>
-            <br />
-            <a class="btn btn-success btn-labeled" href="http://www.jquery2dotnet.com" role="button">
-                <span class="btn-label"><i class="glyphicon glyphicon-info-sign"></i></span>Info Web</a>
-        </div>
-    </div>
-</div>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/fork" data-size="large" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a>
 ## Willkommen bei A3DP - Austrian-3D-Printer
 
 
